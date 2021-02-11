@@ -6,7 +6,7 @@ Guide to all resources maintained by the students of technical club IIIT Kottaya
 ## Table of Content
 1. Open Source
 2. Git
-3. First Commit (Meme page)
+3. [First Commit (Meme page)](first%20commit)
 4. Markdown
 
 
