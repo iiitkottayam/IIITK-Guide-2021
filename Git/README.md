@@ -87,3 +87,7 @@ git pull
 Sometimes it may be a good idea to exclude files from being tracked with Git. This is typically done in a special file named .gitignore .
 
 
+
+### Resources
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [Visualising Git commands](https://learngitbranching.js.org)
