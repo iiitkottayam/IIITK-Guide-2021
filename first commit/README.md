@@ -50,7 +50,7 @@ to commit changes
 -----------
 
 
- 9. Now you have pushed changes to your branch. Merge it to main branch by: 
+ 9. Now you have commited changes to your side branch. Merge it to main branch by: 
 
 ```
 git checkout main
@@ -69,3 +69,10 @@ to push the changes
  10. Now that you have merged it to main the last thing to do is to give a pull request to the fork owner. 
 
 -----------
+
+ 11. Head over to github forked repository and create a pull request. 
+
+
+------------
+
+Worry not if you are stuck on your way it will be done by seniors as well. :)
