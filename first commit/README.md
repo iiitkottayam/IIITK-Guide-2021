@@ -34,6 +34,7 @@ git checkout [branch-name]
 ```
 
 8. Now that you have added this, go to you terminal or git. Then 
+
 ```
 git add .
 ```
@@ -50,14 +51,18 @@ to commit changes
 git push
 ```
 to push the changes
+-----------
 
 9. Now you have pushed changes to your branch. Merge it to main branch by: 
+
 ```
 git checkout main
 ```
+-----------
 ```
 git merge [branch-name]
 ```
 
 10. Now that you have merged it to main the last thing to do is to give a pull request to the fork owner. 
 
+-----------
