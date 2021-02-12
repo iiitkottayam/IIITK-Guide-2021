@@ -39,19 +39,22 @@ git checkout [branch-name]
 git add .
 ```
 to add it for commiting phase.
+
 -----------
 
 ```
 git commit -m "added meme"
 ```
 to commit changes
+
 -----------
 
 ```
 git push
 ```
 to push the changes
------------
+
+------------
 
 9. Now you have pushed changes to your branch. Merge it to main branch by: 
 
